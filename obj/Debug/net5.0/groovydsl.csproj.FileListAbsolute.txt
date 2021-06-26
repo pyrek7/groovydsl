@@ -1,0 +1,16 @@
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\groovydsl.exe
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\groovydsl.deps.json
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\groovydsl.runtimeconfig.json
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\groovydsl.runtimeconfig.dev.json
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\groovydsl.dll
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\ref\groovydsl.dll
+C:\Users\pawelfiderek\Desktop\groovydsl\bin\Debug\net5.0\groovydsl.pdb
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.csprojAssemblyReference.cache
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.AssemblyInfoInputs.cache
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.AssemblyInfo.cs
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.csproj.CoreCompileInputs.cache
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.dll
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\ref\groovydsl.dll
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.pdb
+C:\Users\pawelfiderek\Desktop\groovydsl\obj\Debug\net5.0\groovydsl.genruntimeconfig.cache
